@@ -1,5 +1,7 @@
 # react-native-paypal
 
+***This project is not maintained anymore. Please have a look at https://github.com/MattFoley/react-native-paypal***
+
 A React Native interface for the PayPal Payment UI
 
 ![Demo of a Payment using PayPal](/react-native-paypal.gif?raw=true "react-native-paypal")
